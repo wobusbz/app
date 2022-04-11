@@ -1,0 +1,9 @@
+[app]
+addr = "127.0.0.1:8080"
+debug = false
+log_level = "info"
+
+[databse]
+mysql = "mysql://root:123456@127.0.0.1:3306/zshq"
+max_connections = 5
+
